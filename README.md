@@ -1,4 +1,5 @@
-Expressify: Emotion-Based Music Recommendation System 🎵☺️
+# Expressify: Emotion-Based Music Recommendation System 🎵☺️
+
 Expressify is a smart music recommendation system that understands your emotions and suggests the perfect music to match your mood.
 It uses advanced technology to analyze your facial expressions, voice tone, or text input to determine how you feel and then recommends songs that resonate with your emotional state.
 
